@@ -1,3 +1,3 @@
 # React-App
 testing server side infrastructure technique
-And playing with git actions for deployment
+And experimenting with git actions for deployment
