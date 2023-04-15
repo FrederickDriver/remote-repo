@@ -1,2 +1,7 @@
+
 this is a conflicting file with the testing branch.
 I'm gonna have to merge it manually
+
+this is newfil
+i wanted to edit newfile but fuckit whatever
+
